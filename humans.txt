@@ -1,0 +1,14 @@
+/* TEAM */
+	Developer: Harshit Puri
+	Contact: me[at]harshitpuri.dev
+	Twitter: @HarshitPuri
+	From: Gurgaon, Haryana, India
+
+/* THANKS */
+		
+
+/* SITE */
+	Last update: 13/10/2022
+	Language: English
+	Doctype: HTML5
+	IDE: Visual Studio Code

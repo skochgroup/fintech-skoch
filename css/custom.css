@@ -1,0 +1,54 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+
+.box {
+	position: fixed;
+	text-align: center;
+	padding: 10px;
+	margin-left: 10px;
+	margin-top: 165px;
+	height: 250px;
+	width: 10px;
+  } 
+  
+  .box a {
+	text-decoration: none;
+	vertical-align: middle;
+	text-align: center;
+	line-height: 2;
+	font-size: 16px;
+  }
+  
+  .box p {
+	color: #fff;
+	position: relative;
+	left: -10px;
+  }
+  
+  .box p i {
+	position: relative;
+	left: 30px;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 24px;
+  }
+  
+  .single-box {
+	margin-left: -200px;
+	width: 230px;
+	padding: 0;
+	display: inline-table;
+	height: 0;
+	transition: margin-left .5s;
+	cursor: pointer;
+	border-radius: 0 50px 50px 0;
+  }
+  
+  .single-box:hover {
+	margin-left: -30px;
+  }
