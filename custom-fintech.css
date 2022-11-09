@@ -17,6 +17,11 @@
 	--header-height: 70px;
 }
 
+*, html {
+
+    scroll-behavior: smooth !important;
+}
+
 /* Custom Header Size
 -----------------------------------------------------------------*/
 .header-size-sm #header-wrap #logo img {
