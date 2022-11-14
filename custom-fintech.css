@@ -927,3 +927,5 @@ body:not(.device-touch) .awardees-grid .grid-item a {
 small, .small {
     font-size: 0.75em;
 }
+
+.button.button-reveal.button-border i { top: 0px; }
