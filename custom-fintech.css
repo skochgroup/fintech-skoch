@@ -929,3 +929,11 @@ small, .small {
 }
 
 .button.button-reveal.button-border i { top: 0px; }
+
+.stretched #gotoTop {
+    bottom: 80px;
+}
+
+#gotoTop {
+	right: 20px;
+}
