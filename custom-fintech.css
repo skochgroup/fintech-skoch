@@ -840,7 +840,7 @@ body:not(.floating-contact-processing) .floating-contact-loader { display: none;
 
 
 .slider-caption {
-	height: 120%;
+	height: 110%;
     max-width: 1200px;
 }
 
